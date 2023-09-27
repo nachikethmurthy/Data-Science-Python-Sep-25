@@ -1,0 +1,3 @@
+Hello WorldHello Class
+Hello Class
+ Alternate way of using open function
